@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>org.liquibase.ext</groupId>
 			<artifactId>liquibase-neo4j</artifactId>
-			<version>4.12.0</version>
+			<version>4.13.0</version>
 			<scope>runtime</scope>
 		</dependency>
 
